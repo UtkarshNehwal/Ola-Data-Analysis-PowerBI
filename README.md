@@ -1,7 +1,7 @@
 ## Ola Data Analysis - Power BI Dashboard
 
 # Project Overview:
-    This Power BI dashboard analyzes Ola ride data providing insights into ride volume over time, booking status, revenue trends, ride distance distribution     per day, cancellation and rating. The project demonstrates data cleaning, visualization, and storytelling skills using Power BI.
+    This Power BI dashboard analyzes Ola ride data providing insights into ride volume over time, booking status, revenue trends, ride distance distribution per day, cancellation and rating. The project demonstrates data cleaning, visualization, and storytelling skills using Power BI.
 
 # Features:
     - Ride volume over time     
